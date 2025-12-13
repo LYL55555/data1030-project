@@ -94,4 +94,10 @@ Linear models achieve nearly identical performance and are preferred when simpli
 ---
 
 ## Environment
-- Standard Data 1030 environment, see `data1030.yml` for details.
+Python + package versions are defined in `data1030.yml`.
+
+```bash
+conda env create -f data1030.yml
+conda activate data1030
+jupyter notebook
+```
