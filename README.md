@@ -1,6 +1,6 @@
 # DATA 1030 Final Project — Occupancy Detection
 
-**Author:** Yanle Lyu (Brown University, Class of 2025)  
+**Author:** Yanle Lyu
 **Course:** DATA 1030 — Introduction to Data Science  
 **Repository:** https://github.com/LYL55555/data1030-project
 
@@ -94,4 +94,4 @@ Linear models achieve nearly identical performance and are preferred when simpli
 ---
 
 ## Environment
-- Standard Data 1030 environment, see data1030.yml for details.
+- Standard Data 1030 environment, see `data1030.yml` for details.
